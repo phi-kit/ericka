@@ -1,0 +1,1 @@
+Given an image as a prompt, re-visualize the model as if floating in a vat of healing liquid. The model is wearing a breathing device and wearing a tight latex outfit.
